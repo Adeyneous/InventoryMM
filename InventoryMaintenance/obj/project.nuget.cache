@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZGZdmtruniKLmMDKB7dvKWonmDgm20wcxBsLla7smOYQy16lmaCjI3a+4a1s/WLFMeO7b+pYcqT0g98gcHqsAg==",
+  "success": true,
+  "projectFilePath": "D:\\ASP.Net\\InventoryMaintenanceText\\InventoryMaintenance\\InventoryMaintenance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elidi\\.nuget\\packages\\mstest.testadapter\\3.1.1\\mstest.testadapter.3.1.1.nupkg.sha512",
+    "C:\\Users\\Elidi\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
